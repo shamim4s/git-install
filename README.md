@@ -1,4 +1,4 @@
-# How to install Git on Windows Mac and Linux
+# How to install Git on Windows, Mac and Linux
 
 
 
